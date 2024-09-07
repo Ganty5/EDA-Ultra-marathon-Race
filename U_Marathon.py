@@ -207,6 +207,6 @@ plt.title("Corelation Result")
 plt.show()
 
 ag=U_Mara.athlete_age.value_counts().head(5)
-ag
+
 
 
